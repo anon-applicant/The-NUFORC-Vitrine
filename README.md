@@ -1,8 +1,10 @@
 # The NUFORC Vitrine
 
-#### Through the extraterrestrial looking-glass.
-
-[<img src="https://www.archives.gov/files/topics/ufo-banner2.gif" width="750" height="300"/>](http://www.nuforc.org/)
+<p align="center">
+	<a href="https://nuforc.org/">
+    		<img src="https://www.archives.gov/files/topics/ufo-banner2.gif" width="750" height="300"/>
+	</a>
+</p>
 
 ---
 
@@ -14,7 +16,7 @@ This repository stores my data obtention methods, as well as the (nearly finishe
 
 ## Briefing
 
-All data was collected (WIP), cleaned, analysed and visualised by me.
+All data was collected, cleaned, analysed and visualised by me.
 
 
 ### Data cleansing
@@ -62,7 +64,3 @@ Most fields are treated as freetext fields, and clearly no validation occured at
 ## License
 
 Everything here is [unlincensed](LICENSE).
-
----
-
-[Back Up Top](#the-nuforc-vitrine)
