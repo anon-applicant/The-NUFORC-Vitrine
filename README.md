@@ -2,7 +2,7 @@
 
 #### Through the extraterrestrial looking-glass.
 
-[<img src="https://www.archives.gov/files/topics/ufo-banner2.gif" width="250" height="250"/>](http://www.nuforc.org/)
+[<img src="https://www.archives.gov/files/topics/ufo-banner2.gif" width="750" height="300"/>](http://www.nuforc.org/)
 
 ---
 
