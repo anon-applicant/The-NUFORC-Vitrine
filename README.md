@@ -46,6 +46,9 @@ Most fields are treated as freetext fields, and clearly no validation occured at
 		* Many "Republic of"s and "Rep. of"s
 6.	`Latitude` and `Longitude` are completely missing for countries outside of the U.S. and Canada. Cannot speak to their veracity.
 
+<br />
+<br />
+<br />
 
 ### Comments on the data
 * California has experienced more UFO sightings than every country outside of the U.S. combined.
